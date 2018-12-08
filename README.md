@@ -17,9 +17,17 @@ Commands:
 When using commands 1-3, the query must be given. In addition, if the query is multiple words long, you must enclose them in either single or double quotes.
 
 Basic usage examples:
+
+    concert-this usage:
     ![concert-this example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/concert-this.png)
+    
+    movie-this usage:
     ![movie-this example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/movie-this.png)
+    
+    spotify-this-song usage:
     ![spotify example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/spotify.png)
+    
+    Various examples of input handling:
     ![error example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/error.png)
 
 
