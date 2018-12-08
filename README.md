@@ -21,11 +21,6 @@ Basic usage examples:
     ![movie-this example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/movie-this.png)
     ![spotify example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/spotify.png)
     ![error example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/error.png)
-    [[https://github.com/giboc/liri-node-app/tree/master/screenshot/movie-this.png]]
-    
-    [[https://github.com/giboc/liri-node-app/tree/master/screenshot/spotify.png]]
-    
-    [[https://github.com/giboc/liri-node-app/tree/master/screenshot/error.png]]
 
 
 When using command 4, the command in the text file "random.txt" will be run.  Users may change the command in here but it must follow this format:
@@ -34,3 +29,5 @@ Example:
     spotify-this-song,"I Want it That Way"
 
 If the user enters an incorrect command or incorrect number of inputs, the script will suggest the user to run help.
+
+Finally, all non-error messages (including artist/movie not found) will be logged in log.txt.
