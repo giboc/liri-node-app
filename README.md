@@ -17,8 +17,14 @@ Commands:
 When using commands 1-3, the query must be given. In addition, if the query is multiple words long, you must enclose them in either single or double quotes.
 
 Basic usage examples:
-    node liri.js concert-this "Backstreet Boys"
-    node liri.js movie-this "Lion King"
+    (https://github.com/giboc/liri-node-app/tree/master/screenshot/concert-this.png)
+    
+    (https://github.com/giboc/liri-node-app/tree/master/screenshot/movie-this.png)
+    
+    (https://github.com/giboc/liri-node-app/tree/master/screenshot/spotify.png)
+    
+    (https://github.com/giboc/liri-node-app/tree/master/screenshot/error.png)
+
 
 When using command 4, the command in the text file "random.txt" will be run.  Users may change the command in here but it must follow this format:
     [command],"[query]"
