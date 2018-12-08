@@ -1,9 +1,358 @@
-Artist: Dr. Dre, Snoop Dogg
-Track: The Next Episode
-Link: https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC
+Artist: White Zombie
+Track: Children Of The Grave
+Link: https://open.spotify.com/track/7eEHTD3EEevRKoLj7RwbYn
 
-Artist: In Flames
-Track: Episode 666
-Link: https://open.spotify.com/track/4Du4YlB18LQd3DVI4URBtB
+Artist: Black Sabbath
+Track: N.I.B. - 2009 Remastered Version
+Link: https://open.spotify.com/track/2GnVuaoKSkB6Xa07l1BBg8
 
-Song not found
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Title: undefined
+Year: undefined
+IMDB Rating: undefined
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 67%Countries: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Artist: Harry Styles
+Track: Sign of the Times
+Link: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+
+Artist: Ace of Base
+Track: The Sign
+Link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+
+Venue: BB&T Center
+Location: Sunrise, United States
+Date: 07/18/2019
+
+Venue: Lakewood Amphitheatre
+Location: Atlanta, United States
+Date: 07/20/2019
+
+Venue: PNC Music Pavilion
+Location: Charlotte, United States
+Date: 07/22/2019
+
+Venue: Jiffy Lube Live
+Location: Bristow, United States
+Date: 07/24/2019
+
+Venue: Barclays Center
+Location: Brooklyn, United States
+Date: 07/26/2019
+
+Venue: Wells Fargo Center
+Location: Philadelphia, United States
+Date: 07/30/2019
+
+Venue: Xfinity Center
+Location: Mansfield, United States
+Date: 08/01/2019
+
+Venue: Xfinity Theatre
+Location: Hartford, United States
+Date: 08/03/2019
+
+Venue: Bell Centre
+Location: Montreal, Canada
+Date: 08/05/2019
+
+Venue: Videotron Centre
+Location: Ville De Québec, Canada
+Date: 08/07/2019
+
+Venue: Budweiser Stage
+Location: Toronto, Canada
+Date: 08/09/2019
+
+Venue: Budweiser Stage
+Location: Toronto, Canada
+Date: 08/10/2019
+
+Venue: KeyBank Center
+Location: Buffalo, United States
+Date: 08/13/2019
+
+Venue: Riverbend Music Center
+Location: Cincinnati, United States
+Date: 08/15/2019
+
+Venue: PPG Paints Arena
+Location: Pittsburgh, United States
+Date: 08/17/2019
+
+Venue: Bridgestone Arena
+Location: Nashville, United States
+Date: 08/19/2019
+
+Venue: Hollywood Casino Amphitheatre - Chicago, IL
+Location: Tinley Park, United States
+Date: 08/22/2019
+
+Venue: Ruoff Home Mortgage Music Center
+Location: Noblesville, United States
+Date: 08/24/2019
+
+Venue: Xcel Energy Center
+Location: St Paul, United States
+Date: 08/26/2019
+
+Venue: Bell MTS Place
+Location: Winnipeg, Canada
+Date: 08/28/2019
+
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 08/30/2019
+
+Venue: Scotiabank Saddledome
+Location: Calgary, Canada
+Date: 08/31/2019
+
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 09/03/2019
+
+Venue: Tacoma Dome
+Location: Tacoma, United States
+Date: 09/05/2019
+
+Venue: Moda Center
+Location: Portland, United States
+Date: 09/06/2019
+
+Venue: Golden 1 Center
+Location: Sacramento, United States
+Date: 09/09/2019
+
+Venue: Oracle Arena
+Location: Oakland, United States
+Date: 09/10/2019
+
+Venue: MGM Grand Garden Arena
+Location: Las Vegas, United States
+Date: 09/13/2019
+
+Venue: Banc of California Stadium
+Location: Los Angeles, United States
+Date: 09/14/2019
+
+Venue: Talking Stick Resort Arena
+Location: Phoenix, United States
+Date: 09/17/2019
+
+Venue: Isleta Amphitheater
+Location: Albuquerque, United States
+Date: 09/19/2019
+
+Venue: Dos Equis Pavilion
+Location: Dallas, United States
+Date: 09/21/2019
+
+Venue: The Cynthia Woods Mitchell Pavilion
+Location: The Woodlands, United States
+Date: 09/22/2019
+
+Venue: AT&T Center
+Location: San Antonio, United States
+Date: 09/25/2019
+
+Venue: Palacio de los Deportes
+Location: México, Mexico
+Date: 09/29/2019
+
+Venue: Sports Palace
+Location: Mexico City, Mexico
+Date: 09/30/2019
+
+Venue: Rock in Rio
+Location: Rio De Janeiro, Brazil
+Date: 10/04/2019
+
+Venue: Velez Sarsfield Stadium
+Location: Buenos Aires, Argentina
+Date: 10/12/2019
+
+Venue: Estadio Nacional
+Location: Santiago, Chile
+Date: 10/15/2019
+
+Artist not found.
+
+Artist not found.
+
+Artist not found.
+
+Artist not found.
+
+Artist not found.
+
+Artist not found.
+
+Venue: BB&T Center
+Location: Sunrise, United States
+Date: 07/18/2019
+
+Venue: Lakewood Amphitheatre
+Location: Atlanta, United States
+Date: 07/20/2019
+
+Venue: PNC Music Pavilion
+Location: Charlotte, United States
+Date: 07/22/2019
+
+Venue: Jiffy Lube Live
+Location: Bristow, United States
+Date: 07/24/2019
+
+Venue: Barclays Center
+Location: Brooklyn, United States
+Date: 07/26/2019
+
+Venue: Wells Fargo Center
+Location: Philadelphia, United States
+Date: 07/30/2019
+
+Venue: Xfinity Center
+Location: Mansfield, United States
+Date: 08/01/2019
+
+Venue: Xfinity Theatre
+Location: Hartford, United States
+Date: 08/03/2019
+
+Venue: Bell Centre
+Location: Montreal, Canada
+Date: 08/05/2019
+
+Venue: Videotron Centre
+Location: Ville De Québec, Canada
+Date: 08/07/2019
+
+Venue: Budweiser Stage
+Location: Toronto, Canada
+Date: 08/09/2019
+
+Venue: Budweiser Stage
+Location: Toronto, Canada
+Date: 08/10/2019
+
+Venue: KeyBank Center
+Location: Buffalo, United States
+Date: 08/13/2019
+
+Venue: Riverbend Music Center
+Location: Cincinnati, United States
+Date: 08/15/2019
+
+Venue: PPG Paints Arena
+Location: Pittsburgh, United States
+Date: 08/17/2019
+
+Venue: Bridgestone Arena
+Location: Nashville, United States
+Date: 08/19/2019
+
+Venue: Hollywood Casino Amphitheatre - Chicago, IL
+Location: Tinley Park, United States
+Date: 08/22/2019
+
+Venue: Ruoff Home Mortgage Music Center
+Location: Noblesville, United States
+Date: 08/24/2019
+
+Venue: Xcel Energy Center
+Location: St Paul, United States
+Date: 08/26/2019
+
+Venue: Bell MTS Place
+Location: Winnipeg, Canada
+Date: 08/28/2019
+
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 08/30/2019
+
+Venue: Scotiabank Saddledome
+Location: Calgary, Canada
+Date: 08/31/2019
+
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 09/03/2019
+
+Venue: Tacoma Dome
+Location: Tacoma, United States
+Date: 09/05/2019
+
+Venue: Moda Center
+Location: Portland, United States
+Date: 09/06/2019
+
+Venue: Golden 1 Center
+Location: Sacramento, United States
+Date: 09/09/2019
+
+Venue: Oracle Arena
+Location: Oakland, United States
+Date: 09/10/2019
+
+Venue: MGM Grand Garden Arena
+Location: Las Vegas, United States
+Date: 09/13/2019
+
+Venue: Banc of California Stadium
+Location: Los Angeles, United States
+Date: 09/14/2019
+
+Venue: Talking Stick Resort Arena
+Location: Phoenix, United States
+Date: 09/17/2019
+
+Venue: Isleta Amphitheater
+Location: Albuquerque, United States
+Date: 09/19/2019
+
+Venue: Dos Equis Pavilion
+Location: Dallas, United States
+Date: 09/21/2019
+
+Venue: The Cynthia Woods Mitchell Pavilion
+Location: The Woodlands, United States
+Date: 09/22/2019
+
+Venue: AT&T Center
+Location: San Antonio, United States
+Date: 09/25/2019
+
+Venue: Palacio de los Deportes
+Location: México, Mexico
+Date: 09/29/2019
+
+Venue: Sports Palace
+Location: Mexico City, Mexico
+Date: 09/30/2019
+
+Venue: Rock in Rio
+Location: Rio De Janeiro, Brazil
+Date: 10/04/2019
+
+Venue: Velez Sarsfield Stadium
+Location: Buenos Aires, Argentina
+Date: 10/12/2019
+
+Venue: Estadio Nacional
+Location: Santiago, Chile
+Date: 10/15/2019
+
+Artist not found.
+
+Artist not found.
+
