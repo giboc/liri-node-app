@@ -22,8 +22,7 @@ Basic usage examples:
         ![concert-this example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/concert-this.png)
     
    movie-this usage:
-    
-    ![movie-this example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/movie-this.png)
+        ![movie-this example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/movie-this.png)
     
    spotify-this-song usage:
     ![spotify example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/spotify.png)
