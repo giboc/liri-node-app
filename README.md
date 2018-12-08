@@ -17,8 +17,10 @@ Commands:
 When using commands 1-3, the query must be given. In addition, if the query is multiple words long, you must enclose them in either single or double quotes.
 
 Basic usage examples:
-    ![concert](https://github.com/giboc/liri-node-app/tree/master/screenshot/concert-this.png)
-    
+    ![concert-this example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/concert-this.png)
+    ![movie-this example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/movie-this.png)
+    ![spotify example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/spotify.png)
+    ![error example](https://raw.githubusercontent.com/giboc/liri-node-app/master/screenshot/error.png)
     [[https://github.com/giboc/liri-node-app/tree/master/screenshot/movie-this.png]]
     
     [[https://github.com/giboc/liri-node-app/tree/master/screenshot/spotify.png]]
